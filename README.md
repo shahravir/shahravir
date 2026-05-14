@@ -23,8 +23,7 @@ Most of what I do publicly sits at the intersection of three things:
 ### Speaking
 
 - **AWS European FSI Industry Analyst Summit** — panellist, 2024
-- **IBM UKI Chief Architects** — Engineering culture, 2024
-- **Imperial College London** — IBM Engagement Lead; mentor, ICL Rocketry
+- **IBM UKI Chief Architects** — Engineering culture, 2026
 
 ### Selected experiments
 
@@ -34,14 +33,9 @@ Pinned below. Most are agentic-engineering prototypes — exploring what's possi
 
 ### Day job
 
-Executive Architect at IBM Consulting · UKI Financial Services Sector · 9 yrs at IBM · 21 yrs in industry.
-
-Currently CTO for IBM FSS Digital and Chief Engineer for the Nationwide Building Society account.
+Executive Architect at IBM Consulting · UKI Financial Services Sector
 
 ### Reach me
 
 LinkedIn is the best place — link above.
 
----
-
-> *"To be the technology leader UKI Financial Services calls when they need digital transformation, workforce efficiency, and operational resilience — all at once, not one at a time — powered by Agentic AI and Agentic Engineering."*
