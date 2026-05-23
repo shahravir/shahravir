@@ -1,5 +1,7 @@
 ## Ravi Shah
 
+**→ [shahravir.github.io](https://shahravir.github.io)** — hub for all profiles
+
 **Agentic engineering practitioner · 1.4B+ tokens of practice · Financial Services**
 
 I build software *with* agents. I also build agentic capability *into* the software I ship for clients.
@@ -12,13 +14,29 @@ Most of what I do publicly sits at the intersection of three things:
 
 ---
 
+### Profiles
+
+| | |
+|---|---|
+| **Hub** | [shahravir.github.io](https://shahravir.github.io) |
+| **LinkedIn** | [linkedin.com/in/ravishah01](https://www.linkedin.com/in/ravishah01/) |
+| **Medium** | [@shah.ravir](https://medium.com/@shah.ravir) |
+| **DEV** | [@shahravir](https://dev.to/shahravir) |
+
+---
+
 ### Writing
 
-- *A year of coding with Gen AI: 1.4B+ tokens later*
-- *Google's Antigravity vs Cursor: The Multi-Agent Coding Era Begins*
-- *From Self-Service to Self-Solving: The Rise of Agentic Banking using MCP*
+Recent on [Medium](https://medium.com/@shah.ravir):
 
-→ [Find these and more on LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+- *IBM Project Bob Shifts Security Left with AI-Powered Code Scans*
+- *Patterns for Context Engineering in Agentic Applications*
+- *Eight Patterns Every Agentic Engineer Should Know*
+- *The Hallucination Is in Your Architecture, Not the Model*
+
+Also on [DEV Community](https://dev.to/shahravir) (cross-posts).
+
+---
 
 ### Speaking
 
@@ -33,9 +51,8 @@ Pinned below. Most are agentic-engineering prototypes — exploring what's possi
 
 ### Day job
 
-Executive Architect at IBM Consulting · UKI Financial Services Sector
+Executive Architect at IBM Consulting · UKI Financial Services Sector · *Views my own.*
 
 ### Reach me
 
-LinkedIn is the best place — link above.
-
+[LinkedIn](https://www.linkedin.com/in/ravishah01/) is the best place for professional contact.
