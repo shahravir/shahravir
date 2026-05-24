@@ -2,7 +2,7 @@
 
 **→ [shahravir.github.io](https://shahravir.github.io)** — hub for all profiles
 
-**Agentic engineering practitioner · 1.4B+ tokens of practice · Financial Services**
+**Agentic engineering practitioner · Financial Services**
 
 I build software *with* agents. I also build agentic capability *into* the software I ship for clients.
 
