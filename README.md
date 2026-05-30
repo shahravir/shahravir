@@ -56,13 +56,3 @@ Executive Architect at IBM Consulting · UKI Financial Services Sector · *Views
 ### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/ravishah01/) is the best place for professional contact.
-
----
-
-### 🟩 Daily Green Square Ritual
-
-> *"One silly commit a day keeps the contribution graph happy."* — Ancient GitHub proverb (probably made up)
-
-**Streak log:**
-- **2026-05-30** — Added this section. The grass demanded tribute. I obeyed. 🌱
-
